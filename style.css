@@ -1,0 +1,473 @@
+.uniHeader{
+	width: 100%;
+	height: 200px;
+	background-color: black;
+	}
+	
+.topHeader{
+	height: 140px;
+	width: 100%;
+	background-color: black;
+}
+
+.logoBox{
+	height: 140px;
+	width: 20%;
+	background-image: url("images/logo.png");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	position: relative;
+	left: 40%;
+}
+
+.lowHeader{
+	height: 60px;
+	width: 100%;
+	background-color: black;
+}
+
+.lowHeader ul{
+	padding: 0px;
+	margin: 0px;
+    text-align:center;
+}
+
+.lowHeader li{
+	list-style-type: none;
+	padding: 0px;
+	height: 24px;
+	margin-top: 4px;
+	margin-bottom: 4px;
+	float: left;
+	position: relative;
+	left: 26%;
+	border-right: 1px solid yellow;
+}
+
+.lowHeader li a{
+	color: yellow;
+	font-size: 20px;
+	text-transform: uppercase;
+	text-decoration: none;
+	border-radius: 5px;
+	margin-right: 10px;
+	margin-left: 10px;
+	display: block;
+}
+
+a{
+	text-decoration: none;
+}
+
+li:last-child {
+  border-right: none;
+}
+
+li a:hover:not(.active){
+	background-color: grey;
+}
+
+.active {
+	background-color: grey;
+}
+
+.largeBox{
+	width: 100%;
+	height: 500px;
+	background-image: url("images/flames.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.largeBox-content{
+	width: 100%;
+	height: 200px;
+	
+}
+
+.homeSlogan{
+	margin: 0;
+	padding-top: 100px;
+	text-align: center;
+	color: white;
+	font-size: 60px;
+}
+
+.largeBox-2{
+	width: 100%;
+	height: 1450px;
+	background-color: black;
+}
+
+.homeCategory{
+	width: 100%;
+	height: 150px;
+}
+
+.largeBox-2-graphic{
+	width: 95%;
+	height: 400px;
+	position: relative;
+	top: 50px;
+	left: 2.5%;
+}
+
+.largeBox-2-webd{
+	width: 95%;
+	height: 400px;
+	position: relative;
+	top: 60px;
+	left: 2.5%;
+}
+
+.largeBox-2-develop{
+	width: 95%;
+	height: 400px;
+	position: relative;
+	top: 70px;
+	left: 2.5%;
+}
+
+.boxLeft{
+	width: 40%;
+	height: 400px;
+	float: left;
+	position: relative;
+}
+
+.boxRight{
+	width: 60%;
+	height: 400px;
+	background-color: red;
+	float: right;
+}
+
+.buttonHome{
+	width: 50%;
+	background-color: #191717;
+	color: white;
+	border: 2px solid #FFFFFF;
+	padding: 15px 32px;
+	font-size: 16px;
+	cursor: pointer;
+	text-align: center;
+    text-decoration: none;
+	display: inline-block;
+	
+	position: relative;
+	left: 25%;
+	top: 80px;
+}
+
+.h2HomePage{
+	text-align: center;
+	margin: 0;
+	padding-top: 50px;
+	color: white;
+	font-size: 40px;
+}
+
+.pHomePage{
+	text-align: center;
+	margin: 0;
+	padding-top: 50px;
+	font-size: 18px;
+	color: white;
+}
+
+
+.boxRight img{
+	width: 100%;
+	height: 400px;
+}
+
+.imgBanner{
+	width: 100%;
+	height: 400px;
+
+}
+
+.imgBanner img{
+	width: 100%;
+	height: 400px;
+}
+
+.aboutUsImg{
+	width: 100%;
+	height: 400px;
+	background-color: black;
+}
+
+.titleSection{
+	width: 100%;
+	height: 200px;
+	background-color: black;
+}
+
+.aboutUsImg img{
+	position: relative;
+	left: 28%;
+}
+
+.titleSection h1{
+	margin: 0;
+	padding-top: 30px;
+	text-align: center;
+	color: white;
+	font-size: 60px;
+}
+
+.titleSection p{
+	text-align: center;
+	margin: 0;
+	padding-top: 35px;
+	font-size: 25px;
+	color: white;
+}
+
+.graphicImg{
+	width: 100%;
+	height: 400px;
+	background-color: black;
+}
+
+.graphicImg img{
+	position: relative;
+	left: 25%;
+	height: 400px;
+	width: 50%;
+}
+
+.graphicBox{
+	width: 100%;
+	height: 1600px;
+	background-color: #282626;
+}
+
+
+.graphicBox-Container{
+	width: 100%;
+	height: 500px;
+}
+
+.graphicLeft{
+	width: 50%;
+	height: 500px;
+	float: left;
+}
+
+.graphicRight{
+	width: 50%;
+	height: 500px;
+	float: right;
+}
+
+.graphicItemLeft{
+	width: 50%;
+	height: 500px;
+	border: 1px solid white;
+	position: relative;
+	top: 20px;
+	left: 35%;
+}
+
+.graphicItemLeft img{
+	height: 400px;
+	width: 100%;
+}
+
+.graphicItemLeft h2{
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	padding-top: 2px;
+}
+
+.graphicItemRight{
+	width: 50%;
+	height: 500px;
+	border: 1px solid white;
+	position: relative;
+	top: 20px;
+	left: 15%;
+}
+
+.graphicItemRight img{
+	height: 400px;
+	width: 100%;
+}
+
+.graphicItemRight h2{
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	padding-top: 2px;
+}
+
+
+.breakLine{
+	width: 100%;
+	height: 20px;
+	background-color: #282626;
+	
+}
+
+.webBox{
+	width: 100%;
+	height: 500px;
+	background-color: #282626;
+}
+
+.webBox img{
+	height: 500px;
+	width: 100%;
+}
+
+.webBox h1{
+	text-align: center;
+	color: white;
+	padding-top: 220px;
+	font-size: 40px;
+}
+
+.webBox h2{
+	text-align: center;
+	color: white;
+	padding-top: 50px;
+	font-size: 40px;
+}
+
+.genericBox{
+	width: 50%;
+	height: 500px;
+	float: left;
+}
+
+.genericBox p{
+	color: white;
+	font-size: 20px;
+	padding-top: 30px;
+}
+
+.firstBoxLeft{
+	width: 40%;
+	height: 500px;
+	float: left;
+}
+
+.firstBoxRight{
+	width: 60%;
+	height: 500px;
+	float: right;
+}
+
+.secondBoxLeft{
+	width: 60%;
+	height: 500px;
+	float: left;
+}
+
+.secondBoxRight{
+	width: 40%;
+	height: 500px;
+	float: right;
+}
+
+.textDisplay{
+	width: 100%;
+	height: 250px;
+	background-color: #282626;
+	color: white;
+	text-align: center;
+	font-size: 20px;
+}
+
+.textDisplay p{
+	padding-top: 20px;
+}
+
+.bgForm{
+	width: 100%;
+	height: 600px;
+	background-color: #282626;
+}
+
+.bgForm-Inside{
+	width: 50%;
+	height: 500px;
+	position: relative;
+	left: 25%;
+	top: 50px;
+	color: white;
+}
+
+form ul{
+	height: 500px;
+	width: 50%;
+	position: relative;
+	left: 25%;
+	border: 1px solid white;
+
+}
+
+form ul li{
+	margin-top: 2em;
+}
+
+form ul li label{
+	display: inline-block;
+    width: 25%;
+    text-align: right;
+}
+
+form ul li input{
+	width: 60%;
+}
+
+form ul li textarea{
+	width: 60%;
+	height: 10em;
+	vertical-align: top;
+}
+
+form ul li select{
+	margin-bottom: 1em;
+}
+
+form ul li button{
+	width: 60%;
+	margin-bottom: 1em;
+	margin-left: 9.2em;
+}
+
+.browseImg{
+	height:400px;
+	width: 100%;
+	background-color: #282626;
+}
+
+.exampleImg{
+	margin-left: 2.5%;
+	float: left;
+	width: 30%;
+	height: 350px;
+}
+
+.exampleImg img{
+	height: 350px;
+	width: 100%;
+}
+
+.permBottom{
+	width: 100%;
+	height: 50px;
+	background-color: #191717; 
+
+}
+
+.footerText{
+	color: white;
+	margin: 0;
+	text-align: center;
+	padding-top: 15px;
+}
