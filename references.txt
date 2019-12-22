@@ -1,0 +1,117 @@
+Coding Stuff:
+
+https://codepen.io/senff/pen/LFiHp - helped me with navbars
+
+https://www.tutorialrepublic.com/html-tutorial/html-forms.php
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form - Both of these sites helped me with Forms.
+
+Websites:
+
+Wikipedia - Quoted a few things which are mentioned on the site.
+
+https://htmlcolorcodes.com/ - for finding colours
+
+https://www.w3schools.com/ - for various web development tutorials and guides
+
+https://www.unahealydesign.com/ - Got some inspiration from this website.
+
+https://marksheet.io/css-reset.html - I used this website to get the CSS Reset
+Images:
+
+pencils.jpg - https://www.artsy.net/article/artsy-editorial-little-known-reason-pencils-yellow
+
+webdesign.jpg - https://www.business2community.com/web-design/b2b-web-design-essentials-a-quick-intro-for-cmos-02250593
+
+development.jpg - https://www.uplarn.com/top-10-benefits-using-net-web-development/
+
+flames.jpg - https://www.flickr.com/photos/30478819@N08/38977827261
+
+devilface.jpg - https://fineartamerica.com/featured/smiley-face-laughing-devil-face-red-dogboo.html - used for the logo
+
+logo-design.jpg - https://www.jootoor.com/product/logo-designs/
+
+book-design.png - https://en.99designs.de/book-design-services
+
+banner-design.png - https://en.99designs.de/book-design-services
+
+ad-design.png - https://www.bannersnack.com/advertisement-maker.html
+
+pack-design.jpg - https://www.designcrowd.com/design/14112704
+
+graphic-mental.png - https://www.itsnicethat.com/features/graphic-design-is-mental-ben-longden-the-guardian-opinion-graphic-design-101019
+
+usertest.png - https://medium.com/@dansapio/12-things-to-successfully-conduct-user-testing-920079377990
+
+proto.png - https://medium.com/designing-atlassian/why-prototyping-is-a-must-for-designers-5ef98dfb3bdc
+
+web-banner.png - https://pixelclerks.com/website-design-graphics/694/Design-A-Responsive-Wordpress-Website-With-Mobile-PWA-and-AMP-Theme
+
+develop-banner.jpg - https://hackernoon.com/web-developer-where-to-begin-5v1q320b
+
+html.png - https://www.tutorialrepublic.com/html-tutorial/
+
+css.jpg - https://www.lynda.com/CSS-tutorials/CSS-Essential-Training/5038219-2.html
+
+javascript.jpg - https://y-sbm.com/blog/best-30-platforms-to-learn-javascript-online
+
+office.jpg - https://entrepreneurhandbook.co.uk/office-space-london/
+
+brands.jpg - https://www.creativebloq.com/graphic-design/pro-guide-logo-design-21221/2
+
+logo-one.png - https://www.brandcrowd.com/maker/logo/62fdfa68-3a48-46da-9959-be64842d7c47
+
+logo-two.jpg - https://www.unahealydesign.com/portfolio-item/logo-design/
+
+logo-three.png - https://www.graphedia.ie/graphic-design/logo-design-kildare-dublin-wexford/
+
+brochure-banner.jpg - https://designshack.net/articles/inspiration/free-brochure-templates/
+
+brochure-one.png - https://templates.office.com/en-ie/brochures
+
+brochure-two.jpg - https://www.canva.com/templates/search/brochures/
+
+brochure-three.jpg - https://www.freepik.com/free-vector/business-trifold-brochure-template_3689492.htm
+
+book-banner.jpg - https://libraries.dlrcoco.ie/find-and-renew/book-choices/book-sets
+
+book-one.jpg - https://www.hannahbarrow.nl/books/index.html
+
+book-two.jpg - https://iuliacartasiova.com/aesops-fables-book-design
+
+book-three.jpg - http://creativedesignandprint.ie/book-printing/
+
+banner-banner.jpg - https://www.designersupnorth.com/roller-banner-design/
+
+banner-one.jpg - https://www.123rf.com/photo_27728417_stock-vector-collection-banner-design-vector.html
+
+banner-two.png - https://dribbble.com/shots/6909295-Shoes-Banner-Design
+
+banner-three.jpg - https://www.postermywall.com/index.php/art/template/fe997c502be4777e53a41da7373036cf/may-day-event-invite-banner-design-template#.Xf-1tUf7SUk
+
+ad-banner.jpg - https://2adpro.store/collateral/print-ads
+
+ad-one.png - https://www.designhill.com/advertisement-design
+
+ad-two.jpg - https://www.unahealydesign.com/portfolio-item/advertisement-design/
+
+ad-three.jpg - https://www.pinterest.ie/pin/223702306470725088/
+
+pack-banner.jpg - https://www.designer-daily.com/elegant-packaging-for-chinese-delicacies-82645
+
+pack-one.jpg - https://worldbranddesign.com/dasko-pet-food-packaging-design-from-crete%EF%BB%BF/
+
+pack-two.jpg - https://marla.ie/packaging-design/lotus/
+
+pack-three.jpg - https://www.akgraphics.ie/design/chocolate-packaging-design-from-around-the-world/
+
+user-banner.png - https://nursingeducationexpert.com/qualitative-research-design/
+
+research.jpg - https://www.mrguerrera.com/internet-research-and-web-design.html
+
+usertesting.png - https://blog.hubspot.com/service/user-testing
+
+proto-banner.png - https://careerfoundry.com/en/blog/ux-design/design-thinking-stage-four-prototyping/
+
+Prototyping.jpg - https://www.smashingmagazine.com/2016/09/choosing-the-right-prototyping-tool/
+
+photoshop.jpg - https://petapixel.com/2019/10/17/photoshop-for-ipad-is-missing-key-features-say-beta-testers-report/
